@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mikzb
-- 👀 I’m interested in general Java programming, String manipulation using Python and low-level manipulaton using C and/or Rust.
+- 👀 I’m interested in general Java and C# programming, generative AI uses and web scraping with Python and others! 
 - 🌱 I’m currently learning intermediate Java, Python and C#.
 - 💞️ I’m looking to collaborate on any project that'll help me learn! :)
 - 📫 How to reach me
