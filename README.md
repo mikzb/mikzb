@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mikzb
+- 👋 Hi, I’m @mikzb, a Software Engineering student at the University of Málaga!
 - 📫 How to reach me
 -   email: mikolajzabski@gmail.com
 
